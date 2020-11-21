@@ -5,7 +5,7 @@
 
 ## 简介
 
-[os-ui](https://github.com/isjyi/os-ui) 是一个后台基础模块的前端的实现，它基于 [vue-element-admin](https://panjiachen.github.io/vue-element-admin)实现。它实现了一套最基本的后台权限管理前端的基础模块。可以很快捷的开启自己的项目，不用考虑权限功能如何实现，操作页面如何设计，这里基本上已经满足了，希望能够为大家提供便利。
+[os-ui](https://github.com/isjyi/os-ui) 是一个后台基础模块的前端的实现，它基于 [go-admin-ui](https://github.com/go-admin-team/go-admin-ui)实现。它实现了一套最基本的后台权限管理前端的基础模块。可以很快捷的开启自己的项目，不用考虑权限功能如何实现，操作页面如何设计，这里基本上已经满足了，希望能够为大家提供便利。
 
 <!-- - [在线预览](http://www.zhangwj.com/#/login) -->
 
